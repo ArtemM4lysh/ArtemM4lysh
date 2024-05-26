@@ -2,5 +2,5 @@
 - 👀 I’m interested in finding an internship that will help me to improve my technical skills
 - 🌱 I’m currently learning Python
 - 📫 How to reach me:
-- 1. artem.malysh0102@gmail.com
-- 2. +48 527 520 239
+- artem.malysh0102@gmail.com
+- +48 527 520 239
