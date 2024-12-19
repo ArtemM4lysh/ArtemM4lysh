@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ArtemM4lysh
 - 👀 I’m interested in finding an internship that will help me to improve my technical skills
-- 🌱 I’m currently learning Python
 - 📫 How to reach me:
 - artem.malysh0102@gmail.com
 - +48 527 520 239
